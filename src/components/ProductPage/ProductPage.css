@@ -1,0 +1,29 @@
+.outer-flex {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.inner-flex {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0 2rem 10rem;
+  background-color: #f4f4f4;
+  padding: 6rem;
+  border-radius: 5px;
+}
+.bidbox-flex {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-flex span {
+  font-weight: 600;
+  margin-top: 1rem;
+}
