@@ -1,4 +1,11 @@
 export default {
+  // {
+  //   "title": "Firdsfgdsgsdgst",
+  //   "cardImg": "http://source.unsplash.com/random/?city,water,food",
+  //   "description": "First subsdgdsg sgdgs",
+  //   "startingBid": 50,
+  //   "currentBid": 50
+  // }
   products: [
     {
       id: "1",
